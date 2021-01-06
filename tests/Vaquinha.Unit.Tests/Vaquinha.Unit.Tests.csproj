@@ -9,6 +9,7 @@
   <ItemGroup>
     <PackageReference Include="Bogus" Version="29.0.2" />
     <PackageReference Include="FluentAssertions" Version="5.10.3" />
+    <!-- <PackageReference Include="Microsoft.AspNetCore.App" Version="3.0.0-preview3-19153-02" />-->
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
     <PackageReference Include="Moq" Version="4.14.1" />
     <PackageReference Include="NToastNotify" Version="6.1.3" />
